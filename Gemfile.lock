@@ -1,0 +1,28 @@
+GEM
+  remote: https://rubygems.org/
+  specs:
+    dotenv (2.2.1)
+    pg (0.21.0)
+    rack (2.0.3)
+    rack-unreloader (1.6.0)
+    rake (12.3.0)
+    roda (3.2.0)
+      rack
+    sequel (5.3.0)
+    sequel_pg (1.8.0)
+      pg (>= 0.18.0)
+      sequel (>= 4.34.0)
+
+PLATFORMS
+  ruby
+
+DEPENDENCIES
+  dotenv
+  rack-unreloader
+  rake
+  roda (>= 3)
+  sequel (>= 5)
+  sequel_pg
+
+BUNDLED WITH
+   1.16.0

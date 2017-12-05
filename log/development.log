@@ -1,0 +1,42 @@
+# Logfile created on 2017-12-05 19:01:59 +1100 by logger.rb/56815
+I, [2017-12-05T19:10:25.424185 #12008]  INFO -- : Loading /home/andrew/dev/projects/remorse/v3/config/app.rb
+I, [2017-12-05T19:10:25.453368 #12008]  INFO -- : New classes in /home/andrew/dev/projects/remorse/v3/config/app.rb: App
+I, [2017-12-05T19:10:31.964412 #12101]  INFO -- : Loading /home/andrew/dev/projects/remorse/v3/config/app.rb
+I, [2017-12-05T19:10:31.996953 #12101]  INFO -- : New classes in /home/andrew/dev/projects/remorse/v3/config/app.rb: App
+I, [2017-12-05T19:10:42.429149 #12224]  INFO -- : Loading /home/andrew/dev/projects/remorse/v3/config/app.rb
+I, [2017-12-05T19:10:42.459620 #12224]  INFO -- : New classes in /home/andrew/dev/projects/remorse/v3/config/app.rb: App
+I, [2017-12-05T19:13:56.776756 #12853]  INFO -- : Loading /home/andrew/dev/projects/remorse/v3/config/app.rb
+I, [2017-12-05T19:13:56.783109 #12853]  INFO -- : Loading /home/andrew/dev/projects/remorse/v3/app/controllers/api.rb
+I, [2017-12-05T19:13:56.783420 #12853]  INFO -- : Loading /home/andrew/dev/projects/remorse/v3/app/controllers/api/v1/v1.rb
+I, [2017-12-05T19:13:56.807651 #12853]  INFO -- : New classes in /home/andrew/dev/projects/remorse/v3/config/app.rb: App
+I, [2017-12-05T19:13:56.807715 #12853]  INFO -- : New features in /home/andrew/dev/projects/remorse/v3/config/app.rb: /home/andrew/dev/projects/remorse/v3/app/controllers/api.rb /home/andrew/dev/projects/remorse/v3/app/controllers/api/v1/v1.rb
+I, [2017-12-05T19:18:17.056458 #13525]  INFO -- : Loading /home/andrew/dev/projects/remorse/v3/config/app.rb
+I, [2017-12-05T19:18:17.061640 #13525]  INFO -- : Loading /home/andrew/dev/projects/remorse/v3/app/controllers/api.rb
+I, [2017-12-05T19:18:17.061948 #13525]  INFO -- : Loading /home/andrew/dev/projects/remorse/v3/app/controllers/api/v1/v1.rb
+I, [2017-12-05T19:18:17.089312 #13525]  INFO -- : New classes in /home/andrew/dev/projects/remorse/v3/config/app.rb: App
+I, [2017-12-05T19:18:17.089383 #13525]  INFO -- : New features in /home/andrew/dev/projects/remorse/v3/config/app.rb: /home/andrew/dev/projects/remorse/v3/app/controllers/api.rb /home/andrew/dev/projects/remorse/v3/app/controllers/api/v1/v1.rb
+I, [2017-12-05T19:20:36.390272 #14262]  INFO -- : Loading /home/andrew/dev/projects/remorse/v3/config/app.rb
+I, [2017-12-05T19:20:36.395434 #14262]  INFO -- : Loading /home/andrew/dev/projects/remorse/v3/app/controllers/api.rb
+I, [2017-12-05T19:20:36.395760 #14262]  INFO -- : Loading /home/andrew/dev/projects/remorse/v3/app/controllers/api/v1/v1.rb
+I, [2017-12-05T19:20:36.424091 #14262]  INFO -- : New classes in /home/andrew/dev/projects/remorse/v3/config/app.rb: App
+I, [2017-12-05T19:20:36.424162 #14262]  INFO -- : New features in /home/andrew/dev/projects/remorse/v3/config/app.rb: /home/andrew/dev/projects/remorse/v3/app/controllers/api.rb /home/andrew/dev/projects/remorse/v3/app/controllers/api/v1/v1.rb
+I, [2017-12-05T19:20:39.498337 #14324]  INFO -- : Loading /home/andrew/dev/projects/remorse/v3/config/app.rb
+I, [2017-12-05T19:20:39.504781 #14324]  INFO -- : Loading /home/andrew/dev/projects/remorse/v3/app/controllers/api.rb
+I, [2017-12-05T19:20:39.505219 #14324]  INFO -- : Loading /home/andrew/dev/projects/remorse/v3/app/controllers/api/v1/v1.rb
+I, [2017-12-05T19:20:39.533401 #14324]  INFO -- : New classes in /home/andrew/dev/projects/remorse/v3/config/app.rb: App
+I, [2017-12-05T19:20:39.533482 #14324]  INFO -- : New features in /home/andrew/dev/projects/remorse/v3/config/app.rb: /home/andrew/dev/projects/remorse/v3/app/controllers/api.rb /home/andrew/dev/projects/remorse/v3/app/controllers/api/v1/v1.rb
+I, [2017-12-05T19:21:01.262429 #14498]  INFO -- : Loading /home/andrew/dev/projects/remorse/v3/config/app.rb
+I, [2017-12-05T19:21:01.268096 #14498]  INFO -- : Loading /home/andrew/dev/projects/remorse/v3/app/controllers/api.rb
+I, [2017-12-05T19:21:01.268405 #14498]  INFO -- : Loading /home/andrew/dev/projects/remorse/v3/app/controllers/api/v1/v1.rb
+I, [2017-12-05T19:21:01.296877 #14498]  INFO -- : New classes in /home/andrew/dev/projects/remorse/v3/config/app.rb: App
+I, [2017-12-05T19:21:01.296950 #14498]  INFO -- : New features in /home/andrew/dev/projects/remorse/v3/config/app.rb: /home/andrew/dev/projects/remorse/v3/app/controllers/api.rb /home/andrew/dev/projects/remorse/v3/app/controllers/api/v1/v1.rb
+I, [2017-12-05T19:21:40.634032 #14624]  INFO -- : Loading /home/andrew/dev/projects/remorse/v3/config/app.rb
+I, [2017-12-05T19:21:40.640165 #14624]  INFO -- : Loading /home/andrew/dev/projects/remorse/v3/app/controllers/api.rb
+I, [2017-12-05T19:21:40.640592 #14624]  INFO -- : Loading /home/andrew/dev/projects/remorse/v3/app/controllers/api/v1/v1.rb
+I, [2017-12-05T19:21:40.667102 #14624]  INFO -- : New classes in /home/andrew/dev/projects/remorse/v3/config/app.rb: App
+I, [2017-12-05T19:21:40.667170 #14624]  INFO -- : New features in /home/andrew/dev/projects/remorse/v3/config/app.rb: /home/andrew/dev/projects/remorse/v3/app/controllers/api.rb /home/andrew/dev/projects/remorse/v3/app/controllers/api/v1/v1.rb
+I, [2017-12-05T19:22:49.809950 #14871]  INFO -- : Loading /home/andrew/dev/projects/remorse/v3/config/app.rb
+I, [2017-12-05T19:22:49.816311 #14871]  INFO -- : Loading /home/andrew/dev/projects/remorse/v3/app/controllers/api.rb
+I, [2017-12-05T19:22:49.816589 #14871]  INFO -- : Loading /home/andrew/dev/projects/remorse/v3/app/controllers/api/v1/v1.rb
+I, [2017-12-05T19:22:49.838713 #14871]  INFO -- : New classes in /home/andrew/dev/projects/remorse/v3/config/app.rb: App
+I, [2017-12-05T19:22:49.838774 #14871]  INFO -- : New features in /home/andrew/dev/projects/remorse/v3/config/app.rb: /home/andrew/dev/projects/remorse/v3/app/controllers/api.rb /home/andrew/dev/projects/remorse/v3/app/controllers/api/v1/v1.rb
